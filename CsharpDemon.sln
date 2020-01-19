@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutiThread", "MutiThread\Mu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketApp", "SocketApp\SocketApp.csproj", "{5986ECA4-795A-4DA6-8599-89EE6B4E4A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreWebDemon", "DotNetCoreWebDemon\DotNetCoreWebDemon.csproj", "{3D854A2F-0D3A-407B-A984-9733160FCF14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreWebAPI", "DotNetCoreWebAPI\DotNetCoreWebAPI.csproj", "{20E1A709-1B39-4D3B-A53E-3056B218D97A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{5986ECA4-795A-4DA6-8599-89EE6B4E4A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5986ECA4-795A-4DA6-8599-89EE6B4E4A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5986ECA4-795A-4DA6-8599-89EE6B4E4A9B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D854A2F-0D3A-407B-A984-9733160FCF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D854A2F-0D3A-407B-A984-9733160FCF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D854A2F-0D3A-407B-A984-9733160FCF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D854A2F-0D3A-407B-A984-9733160FCF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E1A709-1B39-4D3B-A53E-3056B218D97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E1A709-1B39-4D3B-A53E-3056B218D97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E1A709-1B39-4D3B-A53E-3056B218D97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E1A709-1B39-4D3B-A53E-3056B218D97A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
